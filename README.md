@@ -1,4 +1,6 @@
-# :wave: The Basics of GitHub 
+# :wave: Camilo Carrillo
+
+# The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
 
